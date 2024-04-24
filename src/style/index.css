@@ -1,0 +1,9 @@
+@import './color.css';
+@import './font.css';
+
+body {
+  box-sizing: border-box;
+  font-feature-settings: 'pnum' on, 'lnum' on;
+  margin: 0 auto;
+  background: #f5f5f5;
+}
